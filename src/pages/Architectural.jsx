@@ -222,7 +222,7 @@ const Architectural = () => {
       </div>
       <div className="container px-10 pb-10">
         <div className="bg-gray-600 text-center pb-10 shadow-inner drop-shadow-2xl border-b-4 p-10 rounded-xl flex-auto opacity-80">
-          <h2 className="text-4xl pb-5">
+          <h2 className="text-4xl pb-5 text-red-200">
             Covenants, Conditions & Restrictions (CC&Rs)
           </h2>
           <p className="font-serif text-lg text-white">

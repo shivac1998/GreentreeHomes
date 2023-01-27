@@ -38,7 +38,7 @@ video {
   position: absolute;
   width: 100%;
   height: 100%;
-  top: 225px;
+  top: 20vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -50,9 +50,9 @@ video {
   position: absolute;
   width: 100%;
   height: 100%;
-  top: 1320px;
+  /* top: 85rem; */
   display: flex;
-  flex-direction:column;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   color: white;

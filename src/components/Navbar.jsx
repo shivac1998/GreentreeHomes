@@ -64,6 +64,14 @@ const Navbar = () => {
                 Contact
               </Link>
             </li>
+            {/* <li>
+              <Link
+                to="/about"
+                className="ml-10 text-lg uppercase hover:border-b"
+              >
+                About
+              </Link>
+            </li> */}
           </ul>
         </div>
       </div>
