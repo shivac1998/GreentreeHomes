@@ -7,7 +7,7 @@ export const main = () => {
     <div>
       <div className="main">
         <video
-          src="https://youfiles.herokuapp.com/videodictionary/?m=Video_Player_Drive&state=%7B%22ids%22:%5B%2210aqnVxMYdaiZOqIebDN_tq2BYI-FsPDe%22%5D,%22action%22:%22open%22,%22resourceKeys%22:%7B%7D%7D"
+          src="https://drive.google.com/file/d/1inrIAZp7Yo4H4OQ6EP6OQ_AMwDFw-tj6/view?usp=share_link"
           autoPlay
           loop
           muted
