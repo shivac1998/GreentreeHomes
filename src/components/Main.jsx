@@ -7,7 +7,7 @@ export const main = () => {
     <div>
       <div className="main">
         <video
-          src="https://storage.cloud.google.com/greentree/bg.mp4"
+          src="https://youfiles.herokuapp.com/videodictionary/?m=Video_Player_Drive&state=%7B%22ids%22:%5B%2210aqnVxMYdaiZOqIebDN_tq2BYI-FsPDe%22%5D,%22action%22:%22open%22,%22resourceKeys%22:%7B%7D%7D"
           autoPlay
           loop
           muted
